@@ -1,0 +1,5 @@
+num1=float(input("Enter first number: "))
+num2=float(input("Enter second number: "))
+print("Product of numbers is",num1*num2)
+print("Division of numbers is",num1/num2)
+print("Difference of numbers is",num1-num2)
